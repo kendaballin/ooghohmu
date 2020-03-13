@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xoawaitho.onfiar.com/sitemap.xml
